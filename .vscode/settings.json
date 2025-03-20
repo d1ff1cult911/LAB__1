@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\FOR_LAB\\LAB__1",
+            "binaryPath": "d:\\FOR_LAB\\LAB__1\\matrix_program",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "float_matrix.h": "c"
+    }
+}
